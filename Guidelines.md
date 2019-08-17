@@ -1,15 +1,13 @@
-# Community Guidelines/Rules for Contribution in CodeCareerGit OpenSource Projects. 
+# Contribution Policy
 
-1. Owners of CodeCareerGit Org have right to start an opensource project.
-2. Members of CodeCareerGit Org have to take prior consent from owners of CodeCareerGit before starting an opensource project.
-3. The one who start a project on CodeCareerGit Org will be given a title of "Owner" for that project.
-4. "Owner" of the project have rights to set contribution guidlines, code of conduct and regulations for project team members.
-5. "Owner" of the project have rights to change, modify, remove and add rules of contribution. Changes will be made with 1 weeks notice.
-6. "Owner" of the project have rights to extend his/her authorities to other team members/contributors of the project.
-7. "Owner" have the right to ban team members and contributors from project with suitable reason(s).
-8. The one who suggest changes and contribute to codebase/documentation is called a "Contributor".
-9. "Contributor" have right to suggest changes to project through Github Issues.
-10. "Contributor" have right to request addition of their code through PR(Pull Request).
-11. To create a PR "Contributor" has to fork project first and create a PR through this forked repository.
-12. If Contributor is already a member/owner of CodeCareerGit, he/she can create PR by creating a separate branch in original repository.
-13. "Contributor" cannot demand membership of CodeCareerGit Org for one-time PR.
+- The Code Career admin team has the right to start new open-source projects at any time.
+- The Code Career admin team has the right to disband existing projects for any reason with 1 week notice. Notice will be made in the form of general Discord server announcement.
+- If a member of the Code Career community wishes to start a project, he must pitch it by creating an issue using the "Project idea" template first in order to inhibit open discussion about the idea's feasibility.
+- The member that submits an approved project idea will work with the CodeCareer team to maintain the repo and dictate future changes for that particular project. They will be able to: 
+  - set contribution guidlines, code of conduct and regulations for project team members.
+  - change, modify, remove and add rules of contribution. Changes will be made with 1 weeks notice.
+- A contributor to one of Code Career's open-source projects is simply called "Contributor".
+- The "Contributor" may suggest changes to any Code Career open-source project through [GitHub Issues](https://github.com/GitCodeCareer/open-source/issues).
+- The "Contributor" may submit changes to the codebase of any of the Code Career open-source projects through a GitHub Pull Request (PR).
+- To create a PR, the "Contributor" has to fork project first and create a PR through this forked repository.
+- A "Contributor" is not considered part of the Code Career admin team and does not have admin-related permissions and roles.
