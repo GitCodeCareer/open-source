@@ -1,7 +1,7 @@
 # Contribution Policy
 
 - The Code Career admin team has the right to start new open-source projects at any time.
-- The Code Career admin team has the right to disband existing projects for any reason with 1 week notice. Notice will be made in the form of general Discord server announcement.
+- The Code Career admin team has the right to stop promoting and/or supporting existing projects for any reason with 1 week notice. However, the repository will remain available on GitHub and to the public.
 - If a member of the Code Career community wishes to start a project, he must pitch it by creating an issue using the "Project idea" template first in order to inhibit open discussion about the idea's feasibility.
 - The member that submits an approved project idea will work with the CodeCareer team to maintain the repo and dictate future changes for that particular project. They will be able to: 
   - set contribution guidlines, code of conduct and regulations for project team members.
