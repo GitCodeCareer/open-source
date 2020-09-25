@@ -33,7 +33,7 @@ Our vision for CodeCareer's open-source initiatives is to help budding developer
 ## Jira Ticket Naming Conventions
 
 - Task names are in Capital Case.
-- <category> - <task name>
+- (category) - (task name)
   - Plan - Opensource Project Ideas
 - Categories
   - Plan
@@ -45,7 +45,7 @@ Our vision for CodeCareer's open-source initiatives is to help budding developer
 
 ## GitHub Branch Naming Conventions
 
-- <category>--<feature name>
+- (category)--(feature name)
   - feature--foobar
   - improvement--fizzbuzz
   - bug-fix--wambam
@@ -121,10 +121,10 @@ Our vision for CodeCareer's open-source initiatives is to help budding developer
 #### Component Design Pattern
 
 - Include component specific css and helper functions within React components.
-- /components/<component category>/<component dir>/
+- /components/(component category)/(component dir)/
   - PostComment.js
   - Comments.js
-- /components/<component category>/<asset dir>
+- /components/(component category)/(asset dir)
   - /components/social/css
   - comments.css
   - posts.css
