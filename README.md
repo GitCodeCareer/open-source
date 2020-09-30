@@ -4,7 +4,6 @@
 ## CodeCareer As an Organization
 Our Why: Save developers time and stress.
 How We Do It: Code. Coffee. Curiosity. Empathy. Tenacity.
-What We Make: A Social Career Development Platform and Suite of SaSS Tools for Developers.
 
 How We Conduct Ourselves:
 - "Why" Focused - "Save developers time and stress"
