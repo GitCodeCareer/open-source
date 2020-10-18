@@ -33,6 +33,10 @@ Our vision for CodeCareer's open-source initiatives is to help budding developer
 @benjaminspak
 @igavelyuk
 @AjeaSmith
+@Folabornn
+
+### Key Contributors
+@crock
 
 ## Jira Ticket Naming Conventions
 
