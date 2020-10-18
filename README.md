@@ -30,13 +30,26 @@ Our vision for CodeCareer's open-source initiatives is to help budding developer
 - A "Contributor" is not considered part of the Code Career admin team and does not have admin-related permissions and roles.
 
 ## Admin Team
-@benjaminspak
-@igavelyuk
-@AjeaSmith
-@Folabornn
+
+Igor Gavelyuk - Fullstack Developer
+https://github.com/igavelyuk
+https://twitter.com/igavelyuk
+
+Ajea Smith - Fullstack Developer
+https://twitter.com/ajeasmith
+https://github.com/AjeaSmith
+
+Samuel T. Afolabi - UI/UX Designer
+https://github.com/Folaborn1
+https://twitter.com/Folabornn
+
+Benjamin Spak - Project Manager + Dev
+https://github.com/benjaminspak
 
 ### Key Contributors
-@crock
+Alex Crocker
+https://github.com/crock
+https://twitter.com/crockerbytes
 
 ## Jira Ticket Naming Conventions
 
