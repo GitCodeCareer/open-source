@@ -132,3 +132,59 @@ Our vision for CodeCareer's open-source initiatives is to help budding developer
   - /components/social/css
   - comments.css
   - posts.css
+
+`
+
+## :books: Dev Environment & Settings
+
+[MERN Stack Front To Back: Full Stack React, Redux & Node.js > Environment & Setup](https://www.udemy.com/course/mern-stack-front-to-back/learn/lecture/10055132#overview) - Emmet and Prettier settings.
+
+### Tools
+
+- [MongoDB Atlas (Free Plan)](https://www.mongodb.com/cloud/atlas) - MongoDB Cloud Hosting
+- [POSTman](https://www.postman.com/) - API End Point Checker
+- [MongoDB Compass](https://www.mongodb.com/products/compass) - Mongo DB Management
+- [Heroku](heroku.com) - Deployment
+- [VSCode](https://code.visualstudio.com/) - IDE
+- [DataDog](https://app.datadoghq.com/signup/agent#overview) - Monitoring & Security
+
+### Stack (MERN)
+
+- [MongoDB](https://www.mongodb.com/)
+- [React.js](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [Mongoose.js](https://mongoosejs.com/)
+
+### VSCode Extensions (Recommended)
+
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+- [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+### Chrome Extensions (Recommended)
+
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+
+## Workarounds and Fixes
+
+- [Fix npm cmd error “internal/modules/cjs/loader.js:605” throw err](https://youtu.be/95zwKjgpMcE)
+
+```
+rm -rf node_modules package-lock.json && npm install && npm start
+```
