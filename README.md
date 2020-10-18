@@ -29,6 +29,11 @@ Our vision for CodeCareer's open-source initiatives is to help budding developer
 - To create a PR, the "Contributor" has to fork project first and create a PR through this forked repository.
 - A "Contributor" is not considered part of the Code Career admin team and does not have admin-related permissions and roles.
 
+## Admin Team
+@benjaminspak
+@igavelyuk
+@AjeaSmith
+
 ## Jira Ticket Naming Conventions
 
 - Task names are in Capital Case.
