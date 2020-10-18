@@ -16,6 +16,17 @@ How We Conduct Ourselves:
 ## Our Open Source Vision
 Our vision for CodeCareer's open-source initiatives is to help budding developers on their journey to landing a full-time position in tech by providing the opportunity and guidance a new developer needs to make their first real world contribution that has a meaningful impact.
 
+## Current Open-Source Projects
+- Barebones Hiring System | Job postings, admin dashboard, job applications. | (node/express/react) | https://github.com/GitCodeCareer/hacktoberfest--hiring-system
+- Discord Bot | Motivational quotes, podcast link, quote of the day, youTube link, random .gif | ( nodejs discordjs ) | https://github.com/GitCodeCareer/discord-bot
+- A Click Through Career Roadmap that Asks Users About Work Style Prefferences to Help Them Determine a Career Focus. | https://github.com/GitCodeCareer/Career-Roadmaps
+- The Ultimate List of Startup Resources | An ever growing list of start up resources to save founders time and stress. | https://github.com/GitCodeCareer/The-Ultimate-List-of-Startup-Resources
+- 301DaysOfCode.com | https://github.com/GitCodeCareer/301DaysOfCode.com
+- CoderStory | A compilation of programmers sharing their journey in code. | https://github.com/GitCodeCareer/coder-story
+
+## Past Open-Source Projects
+- CodeCareer CLI | https://github.com/GitCodeCareer/codecareer-cli
+
 ## Contribution Policy
 - The Code Career admin team has the right to start new open-source projects at any time.
 - The Code Career admin team has the right to stop promoting and/or supporting existing projects for any reason with 1 week notice. However, the repository will remain available on GitHub and publicly accessible.
@@ -40,8 +51,10 @@ Samuel T. Afolabi - UI/UX Designer | https://github.com/Folaborn1 | https://twit
 Benjamin Spak - Project Manager + Dev | https://github.com/benjaminspak | 
 
 ### Key Contributors
-Alex Crocker -  | https://github.com/crock | https://twitter.com/crockerbytes
 
+Alex Crocker - Fullstack Developer | https://github.com/crock | https://twitter.com/crockerbytes
+
+Jess Wallace - Data Analyst | https://github.com/JessWallace94 | 
 
 ## Jira Ticket Naming Conventions
 
