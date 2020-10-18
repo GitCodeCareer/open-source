@@ -31,25 +31,17 @@ Our vision for CodeCareer's open-source initiatives is to help budding developer
 
 ## Admin Team
 
-Igor Gavelyuk - Fullstack Developer
-https://github.com/igavelyuk
-https://twitter.com/igavelyuk
+Igor Gavelyuk - Fullstack Developer | https://github.com/igavelyuk | https://twitter.com/igavelyuk
 
-Ajea Smith - Fullstack Developer
-https://twitter.com/ajeasmith
-https://github.com/AjeaSmith
+Ajea Smith - Fullstack Developer | https://twitter.com/ajeasmith | https://github.com/AjeaSmith
 
-Samuel T. Afolabi - UI/UX Designer
-https://github.com/Folaborn1
-https://twitter.com/Folabornn
+Samuel T. Afolabi - UI/UX Designer | https://github.com/Folaborn1 | https://twitter.com/Folabornn 
 
-Benjamin Spak - Project Manager + Dev
-https://github.com/benjaminspak
+Benjamin Spak - Project Manager + Dev | https://github.com/benjaminspak | 
 
 ### Key Contributors
-Alex Crocker
-https://github.com/crock
-https://twitter.com/crockerbytes
+Alex Crocker -  | https://github.com/crock | https://twitter.com/crockerbytes
+
 
 ## Jira Ticket Naming Conventions
 
