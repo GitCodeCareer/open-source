@@ -78,6 +78,15 @@ Jess Wallace - Data Analyst | https://github.com/JessWallace94 |
 
 ## Naming Conventions & Code Style Overview:
 
+### Defining Variables
+
+- var - is a global variable and should be used in only extreamly exceptional cases.
+  - var host = "http://localhost:5000";
+- let - is a local varible that is block scoped. Use this for variables that will have their value altered.
+  - let alteredData = [];
+- const - is a local varible that is block scoped and is not expecited to have its value altered.
+  - const DATA_WONT_CHANGE = 1;
+
 ### Picking File and Directory Names:
 
 - Find a balance between descriptive and terse. When in doubt, be more descriptive than terse.
