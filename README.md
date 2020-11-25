@@ -2,7 +2,7 @@
 > A global repository to store information and gather feedback about our current and future open-source projects
 
 ## CodeCareer As an Organization
-Our Why: Save developers time and stress.
+Our Why: Save coders time & stress by creating a platform to source & match jr developers with 50,000 unfilled software development roles.
 How We Do It: Code. Coffee. Curiosity. Empathy. Tenacity.
 
 How We Conduct Ourselves:
