@@ -2,14 +2,14 @@
 > A global repository to store information and gather feedback about our current and future open-source projects
 
 ## CodeCareer As an Organization
-Our Why: Save coders time & stress by creating a platform to source & match jr developers with 50,000 unfilled software development roles.
+Our Why: Save coders time & stress.
 How We Do It: Code. Coffee. Curiosity. Empathy. Tenacity.
 
 How We Conduct Ourselves:
 - "Why" Focused - "Save developers time and stress"
 - No Bullshit - politics, ideologies, pissing contests, cliques, or big egos? Yeet!
 - Be Humble - one has a right to be correct; one does not have a right to be an asshole.
-- Have Grit - be resourceful, own your portion of the product, ask for help when stuck.
+- Have Grit - be resourceful, own your portion a project, ask for help when stuck.
 - Embrace Neurodiversity - each person has a unique way of creating solutions and getting work done.
 - Fully Async Remote - multiple continents, multiple timezones & yet strong collaboration.
 
