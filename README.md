@@ -182,7 +182,7 @@ Daniel Philip Johnson - Front-end (React) Developer | https://github.com/danielp
 - [Heroku](heroku.com) - Deployment
 - [VSCode](https://code.visualstudio.com/) - IDE
 - [DataDog](https://app.datadoghq.com/signup/agent#overview) - Monitoring & Security
-- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
+- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15) - DBMS
 
 ### Stack (MERN)
 
