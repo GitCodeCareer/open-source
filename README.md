@@ -222,6 +222,8 @@ Benjamin Spak - Product Manager - Full-stack Devloper | https://github.com/benja
 rm -rf node_modules package-lock.json && npm install && npm start
 ```
 
-Odd CORS Issues While Developing in Localhost - Error https as origin, locahost is on http. - HTTPS Everywhere
+#### Odd CORS Issues While Developing in localhost
 
-  - Whitelist localhost or switch off HTTPS Everywhere extension for it.
+ Error: https as origin, locahost is on http. - HTTPS Everywhere
+  
+ Fix: Whitelist localhost or switch off HTTPS Everywhere extension for it. Protip: disable any other privacy/ad blocker plugins on localhost.
